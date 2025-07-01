@@ -1,0 +1,42 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <ellipse cx="200" cy="170" rx="140" ry="130" fill="#2EAFE6" stroke="#222" stroke-width="4"/>
+  <!-- Face -->
+  <ellipse cx="200" cy="190" rx="110" ry="100" fill="#fff" stroke="#222" stroke-width="3"/>
+  <!-- Eyes -->
+  <ellipse cx="160" cy="140" rx="30" ry="36" fill="#fff" stroke="#222" stroke-width="2"/>
+  <ellipse cx="240" cy="140" rx="30" ry="36" fill="#fff" stroke="#222" stroke-width="2"/>
+  <ellipse cx="170" cy="155" rx="7" ry="11" fill="#222"/>
+  <ellipse cx="230" cy="155" rx="7" ry="11" fill="#222"/>
+  <!-- Nose -->
+  <circle cx="200" cy="180" r="16" fill="#E44D4D" stroke="#222" stroke-width="2"/>
+  <circle cx="205" cy="175" r="3" fill="#fff"/>
+  <!-- Mouth -->
+  <path d="M170 210 Q200 250 230 210" stroke="#222" stroke-width="3" fill="none"/>
+  <path d="M200 196 Q200 240 200 250" stroke="#222" stroke-width="3" fill="none"/>
+  <!-- Whiskers Left -->
+  <path d="M110 180 Q80 170 110 160" stroke="#222" stroke-width="3" fill="none"/>
+  <path d="M110 190 Q80 190 110 190" stroke="#222" stroke-width="3" fill="none"/>
+  <path d="M110 200 Q80 210 110 220" stroke="#222" stroke-width="3" fill="none"/>
+  <!-- Whiskers Right -->
+  <path d="M290 180 Q320 170 290 160" stroke="#222" stroke-width="3" fill="none"/>
+  <path d="M290 190 Q320 190 290 190" stroke="#222" stroke-width="3" fill="none"/>
+  <path d="M290 200 Q320 210 290 220" stroke="#222" stroke-width="3" fill="none"/>
+  <!-- Body -->
+  <ellipse cx="200" cy="320" rx="100" ry="70" fill="#2EAFE6" stroke="#222" stroke-width="4"/>
+  <!-- Belly -->
+  <ellipse cx="200" cy="340" rx="70" ry="50" fill="#fff" stroke="#222" stroke-width="3"/>
+  <!-- Bell -->
+  <circle cx="200" cy="260" r="18" fill="#FFD700" stroke="#222" stroke-width="2"/>
+  <rect x="192" y="273" width="16" height="7" rx="3" fill="#FFD700" stroke="#222" stroke-width="2"/>
+  <circle cx="200" cy="278" r="4" fill="#222"/>
+  <!-- Arms -->
+  <ellipse cx="90" cy="320" rx="20" ry="45" fill="#2EAFE6" stroke="#222" stroke-width="3"/>
+  <ellipse cx="310" cy="320" rx="20" ry="45" fill="#2EAFE6" stroke="#222" stroke-width="3"/>
+  <!-- Hands -->
+  <ellipse cx="80" cy="370" rx="18" ry="15" fill="#fff" stroke="#222" stroke-width="3"/>
+  <ellipse cx="320" cy="370" rx="18" ry="15" fill="#fff" stroke="#222" stroke-width="3"/>
+  <!-- Feet -->
+  <ellipse cx="150" cy="390" rx="28" ry="10" fill="#fff" stroke="#222" stroke-width="3"/>
+  <ellipse cx="250" cy="390" rx="28" ry="10" fill="#fff" stroke="#222" stroke-width="3"/>
+</svg>

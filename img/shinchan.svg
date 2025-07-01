@@ -1,0 +1,42 @@
+<svg viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <ellipse cx="150" cy="110" rx="90" ry="80" fill="#ffd394" stroke="#222" stroke-width="4"/>
+  <!-- Face blush (cheeks) -->
+  <ellipse cx="110" cy="140" rx="18" ry="10" fill="#fbb1a8" opacity="0.6"/>
+  <ellipse cx="190" cy="140" rx="18" ry="10" fill="#fbb1a8" opacity="0.6"/>
+  <!-- Eyes -->
+  <ellipse cx="120" cy="110" rx="20" ry="25" fill="#fff" stroke="#222" stroke-width="2"/>
+  <ellipse cx="180" cy="110" rx="20" ry="25" fill="#fff" stroke="#222" stroke-width="2"/>
+  <ellipse cx="127" cy="120" rx="7" ry="10" fill="#222"/>
+  <ellipse cx="187" cy="120" rx="7" ry="10" fill="#222"/>
+  <!-- Eyebrows -->
+  <rect x="100" y="85" width="35" height="8" rx="4" fill="#222" transform="rotate(-15 100 85)"/>
+  <rect x="165" y="80" width="35" height="8" rx="4" fill="#222" transform="rotate(15 165 80)"/>
+  <!-- Nose -->
+  <ellipse cx="155" cy="135" rx="7" ry="5" fill="#e08a4c"/>
+  <!-- Mouth -->
+  <path d="M135 155 Q150 175 165 155" stroke="#a94442" stroke-width="4" fill="none"/>
+  <!-- Ears -->
+  <ellipse cx="65" cy="120" rx="15" ry="25" fill="#ffd394" stroke="#222" stroke-width="2"/>
+  <ellipse cx="235" cy="120" rx="15" ry="25" fill="#ffd394" stroke="#222" stroke-width="2"/>
+  <!-- Hair (top) -->
+  <path d="M90 75 Q150 30 210 75" stroke="#222" stroke-width="8" fill="none"/>
+  <ellipse cx="110" cy="65" rx="18" ry="7" fill="#222"/>
+  <ellipse cx="190" cy="65" rx="18" ry="7" fill="#222"/>
+  <!-- Body (red shirt) -->
+  <rect x="90" y="180" width="120" height="80" rx="40" fill="#e74c3c" stroke="#222" stroke-width="4"/>
+  <!-- Shorts -->
+  <rect x="110" y="260" width="80" height="40" rx="20" fill="#f7d358" stroke="#222" stroke-width="3"/>
+  <!-- Arms -->
+  <ellipse cx="70" cy="210" rx="18" ry="35" fill="#ffd394" stroke="#222" stroke-width="3"/>
+  <ellipse cx="230" cy="210" rx="18" ry="35" fill="#ffd394" stroke="#222" stroke-width="3"/>
+  <!-- Hands -->
+  <ellipse cx="60" cy="250" rx="14" ry="10" fill="#fff" stroke="#222" stroke-width="2"/>
+  <ellipse cx="240" cy="250" rx="14" ry="10" fill="#fff" stroke="#222" stroke-width="2"/>
+  <!-- Legs -->
+  <rect x="120" y="300" width="20" height="50" rx="10" fill="#ffd394" stroke="#222" stroke-width="2"/>
+  <rect x="160" y="300" width="20" height="50" rx="10" fill="#ffd394" stroke="#222" stroke-width="2"/>
+  <!-- Shoes -->
+  <ellipse cx="130" cy="355" rx="15" ry="10" fill="#222"/>
+  <ellipse cx="170" cy="355" rx="15" ry="10" fill="#222"/>
+</svg>
